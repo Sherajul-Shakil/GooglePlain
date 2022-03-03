@@ -8,7 +8,7 @@ A completely Responsive Google Clone- Works on Android, iOS & Web!
 - Pagination
 
 ## Installation
-After cloning this repository, migrate to ```google-plain``` folder. Then, follow the following steps:
+After cloning this repository, migrate to ```google_plain``` folder. Then, follow the following steps:
 - Enable Google Custom Search and get API Key(Google Console)
 - Get the Context Key
 - Replace the keys in ```config/api_keys.dart```
